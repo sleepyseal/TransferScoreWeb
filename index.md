@@ -4,9 +4,10 @@ permalink: /
 
 title: Can We Evaluate Domain Adaptation Models Without Target-Domain Labels
 authors:
-    Jianfei, Yang
+    Jianfei, Yang Hanjie, Qian, Yuecong Xu, Kai Wang and Lihua, Xie
 affiliations:
     Nanyang Technology University
+    National University of Singapore 
 paper: https://openreview.net/forum?id=fszrlQ2DuP
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/sleepyseal/Transfer-Learning
