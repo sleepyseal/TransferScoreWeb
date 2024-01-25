@@ -7,7 +7,7 @@ authors:
     A. M. Turing
 affiliations:
     King's College, Cambridge
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+paper: https://openreview.net/forum?id=fszrlQ2DuP
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
