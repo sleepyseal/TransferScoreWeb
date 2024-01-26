@@ -9,7 +9,6 @@ affiliations:
     Nanyang Technology University
     National University of Singapore 
 paper: https://openreview.net/forum?id=fszrlQ2DuP
-video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/sleepyseal/Transfer-Learning
 data: https://huggingface.co/docs/datasets
 ---
