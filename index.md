@@ -4,7 +4,7 @@ permalink: /
 
 title: Can We Evaluate Domain Adaptation Models Without Target-Domain Labels
 authors:
-    Jianfei, Yang Hanjie, Qian, Yuecong Xu, Kai Wang and Lihua, Xie
+    Jianfei, Yang, Hanjie, Qian, Yuecong Xu, Kai Wang and Lihua, Xie
 affiliations:
     Nanyang Technology University
     National University of Singapore 
