@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: Can We Evaluate Domain Adaptation Models Without Target-Domain Labels
+title: Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?
 authors:
     Jianfei, Yang, Hanjie, Qian, Yuecong Xu, Kai Wang and Lihua, Xie
 affiliations:
@@ -27,10 +27,10 @@ Unsupervised domain adaptation (UDA) involves adapting a model trained on a labe
 ## Citation
 ```
 @inproceedings{yang2023can,
-  title={Can We Evaluate Domain Adaptation Models Without Target-Domain Labels? A Metric for Unsupervised Evaluation of Domain Adaptation},
-  author={Yang, Jianfei and Qian, Hanjie and Xu, Yuecong and Kai, Wang and Xie, Lihua},
-  booktitle = "International Conference on Learning Representations",
-  Month = "May",
-  year="2024"
+  title = {Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?},
+  author = {Yang, Jianfei and Qian, Hanjie and Xu, Yuecong and Wang, Kai and Xie, Lihua},
+  booktitle = {International Conference on Learning Representations},
+  Month = {May},
+  year = {2024}
 }
 ```
